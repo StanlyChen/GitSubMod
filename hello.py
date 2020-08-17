@@ -1,1 +1,2 @@
 print("cst")
+print("cys")
